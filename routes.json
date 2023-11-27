@@ -1,0 +1,6 @@
+{
+  "/api/ticket/:id/message/add": "/addmessage?id=:id",
+  "/api/ticket/:id/get": "/getticket?id=:id",
+  "/api/ticket/get/all": "/getalltickets",
+  "/api/ticket/create": "/create"
+}
